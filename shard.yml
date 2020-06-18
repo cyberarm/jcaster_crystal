@@ -1,0 +1,17 @@
+name: jcaster_crystal
+version: 0.1.0
+
+authors:
+  - Cyberarm <matthewlikesrobots@gmail.com>
+
+targets:
+  jcaster_crystal:
+    main: src/jcaster_crystal.cr
+
+crystal: 0.34.0
+
+dependencies:
+  gosu:
+    github: gosu/gosu.cr
+
+license: MIT

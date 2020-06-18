@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  gosu:
+    github: gosu/gosu.cr
+    commit: 6815859503cf4360290df984a477df713fc7d457
+
